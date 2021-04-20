@@ -8,3 +8,4 @@
 |5|GIF(OC)|https://apps.apple.com/app/id1513326399|https://github.com/MoaiHeao/MyEmoji|
 |6|Fun Widget(Swift)|https://apps.apple.com/app/id1534999628|https://github.com/MoaiHeao/CusWidget|
 |7|壁纸(Swift)|https://apps.apple.com/app/id1546057269|https://github.com/MoaiHeao/Wallpaper|
+|8|袋计算器(Swift)|https://apps.apple.com/app/id1562084762 |https://github.com/MoaiHeao/Calculator|
